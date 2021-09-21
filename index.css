@@ -91,9 +91,10 @@ body {
   }
   
   controls- {
+    
     position: absolute;
     text-align: center;
-    bottom: 0;
+    bottom: 50px;
     left: 0;
     width: 100%;
   }
