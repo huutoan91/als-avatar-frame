@@ -72,7 +72,7 @@
                 } var f = new Blob([asArray.buffer], {
                     type: "application/octet-stream"
                 });
-                _fileSaver2.default.saveAs(f, "filter.jpg");
+                _fileSaver2.default.saveAs(f, "avatar.jpg");
             });
         };
 
